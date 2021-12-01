@@ -1,0 +1,33 @@
+{
+	"ID": "20211201110002-ulm6u5j",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20211201110002-ulm6u5j",
+		"title": "Termius软件破解方式",
+		"updated": "20211201110623"
+	},
+	"Children": [
+		{
+			"ID": "20211201110002-9c0qu3j",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211201110002-9c0qu3j",
+				"updated": "20211201110623"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Termius是一个界面比较美观的SSH远程管理器，集成了SFTP功能及Snippets功能，但是默认情况下只能使用SSH远程登录功能，SFTP及Snippets功能需要付费订阅才能使用，不过，由于Termius开发使用了electron框架，"
+				}
+			]
+		},
+		{
+			"ID": "20211201110309-f60fws3",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211201110309-f60fws3",
+				"updated": "20211201110309"
+			}
+		}
+	]
+}

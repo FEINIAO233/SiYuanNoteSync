@@ -1,0 +1,61 @@
+{
+	"ID": "20211130152654-xpe6dby",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20211130152654-xpe6dby",
+		"title": "新文档",
+		"updated": "20211130155007"
+	},
+	"Children": [
+		{
+			"ID": "20211130152653-07jro30",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211130152653-07jro30",
+				"updated": "20211130152707"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "嘻嘻(;｀O´)o"
+				}
+			]
+		},
+		{
+			"ID": "20211130155003-zjmk3dh",
+			"Type": "NodeBlockquote",
+			"Properties": {
+				"id": "20211130155003-zjmk3dh",
+				"updated": "20211130155006"
+			},
+			"Children": [
+				{
+					"Type": "NodeBlockquoteMarker",
+					"Data": "\u003e"
+				},
+				{
+					"ID": "20211130155005-woi3hlq",
+					"Type": "NodeParagraph",
+					"Properties": {
+						"id": "20211130155005-woi3hlq",
+						"updated": "20211130155006"
+					},
+					"Children": [
+						{
+							"Type": "NodeText",
+							"Data": "爱你哟"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211130155007-5yowqqx",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211130155007-5yowqqx",
+				"updated": "20211130155007"
+			}
+		}
+	]
+}

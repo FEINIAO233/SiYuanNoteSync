@@ -1,0 +1,19 @@
+{
+	"ID": "20211201105653-jv0tbqk",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20211201105653-jv0tbqk",
+		"title": "daily note",
+		"updated": "20211201105653"
+	},
+	"Children": [
+		{
+			"ID": "20211201105653-7pjz94z",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211201105653-7pjz94z",
+				"updated": "20211201105653"
+			}
+		}
+	]
+}

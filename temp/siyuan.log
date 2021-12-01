@@ -1,0 +1,95 @@
+I 2021/11/30 14:55:45 working.go:95: 
+      ___                                   ___           ___           ___
+     /  /\        ___           ___        /__/\         /  /\         /__/\
+    /  /:/_      /  /\         /__/|       \  \:\       /  /::\        \  \:\
+   /  /:/ /\    /  /:/        |  |:|        \  \:\     /  /:/\:\        \  \:\
+  /  /:/ /::\  /__/::\        |  |:|    ___  \  \:\   /  /:/~/::\   _____\__\:\
+ /__/:/ /:/\:\ \__\/\:\__   __|__|:|   /__/\  \__\:\ /__/:/ /:/\:\ /__/::::::::\
+ \  \:\/:/~/:/    \  \:\/\ /__/::::\   \  \:\ /  /:/ \  \:\/:/__\/ \  \:\~~\~~\/
+  \  \::/ /:/      \__\::/    ~\~~\:\   \  \:\  /:/   \  \::/       \  \:\  ~~~
+   \__\/ /:/       /__/:/       \  \:\   \  \:\/:/     \  \:\        \  \:\
+     /__/:/        \__\/         \__\/    \  \::/       \  \:\        \  \:\
+     \__\/                                 \__\/         \__\/         \__\/
+I 2021/11/30 14:55:45 runtime.go:57: kernel is booting:
+    * ver [1.5.4]
+    * arch [amd64]
+    * runtime mode [prod]
+    * working directory [/opt/siyuan]
+    * read only [false]
+    * container [docker]
+    * database [ver=20211124]
+    * workspace directory [/siyuan/, data 20 kB]
+    * rsync [version 3.2.3  protocol version 31]
+    * pandoc [/home/siyuan/.config/siyuan/pandoc/bin/pandoc]
+D 2021/11/30 14:55:45 conf.go:110: check device locale failed [detect: not detected], using default language [en_US]
+I 2021/11/30 14:55:46 conf.go:257: local serve path [http://127.0.0.1:6806]
+I 2021/11/30 14:55:46 serve.go:68: kernel is booting [http://0.0.0.0:6806]
+I 2021/11/30 14:55:46 database.go:140: initialized database tables
+I 2021/11/30 14:55:46 database.go:94: reinitialized database [/siyuan/temp/siyuan.db]
+I 2021/11/30 14:55:46 conf.go:507: pre-init database size [66 kB]
+I 2021/11/30 14:55:46 conf.go:523: post-init database size [66 kB], tree stat [count=0, size=0 B]
+I 2021/11/30 14:55:46 working.go:113: kernel booted
+I 2021/11/30 14:56:22 process.go:36: received os signal [interrupt], exit kernel process now
+I 2021/11/30 14:56:22 conf.go:359: exited kernel
+I 2021/11/30 15:05:21 working.go:95: 
+      ___                                   ___           ___           ___
+     /  /\        ___           ___        /__/\         /  /\         /__/\
+    /  /:/_      /  /\         /__/|       \  \:\       /  /::\        \  \:\
+   /  /:/ /\    /  /:/        |  |:|        \  \:\     /  /:/\:\        \  \:\
+  /  /:/ /::\  /__/::\        |  |:|    ___  \  \:\   /  /:/~/::\   _____\__\:\
+ /__/:/ /:/\:\ \__\/\:\__   __|__|:|   /__/\  \__\:\ /__/:/ /:/\:\ /__/::::::::\
+ \  \:\/:/~/:/    \  \:\/\ /__/::::\   \  \:\ /  /:/ \  \:\/:/__\/ \  \:\~~\~~\/
+  \  \::/ /:/      \__\::/    ~\~~\:\   \  \:\  /:/   \  \::/       \  \:\  ~~~
+   \__\/ /:/       /__/:/       \  \:\   \  \:\/:/     \  \:\        \  \:\
+     /__/:/        \__\/         \__\/    \  \::/       \  \:\        \  \:\
+     \__\/                                 \__\/         \__\/         \__\/
+I 2021/11/30 15:05:21 runtime.go:57: kernel is booting:
+    * ver [1.5.4]
+    * arch [amd64]
+    * runtime mode [prod]
+    * working directory [/opt/siyuan]
+    * read only [false]
+    * container [docker]
+    * database [ver=20211124]
+    * workspace directory [/siyuan/, data 20 kB]
+    * rsync [version 3.2.3  protocol version 31]
+    * pandoc [/home/siyuan/.config/siyuan/pandoc/bin/pandoc]
+I 2021/11/30 15:05:21 conf.go:257: local serve path [http://127.0.0.1:6806]
+I 2021/11/30 15:05:21 serve.go:68: kernel is booting [http://0.0.0.0:6806]
+I 2021/11/30 15:05:21 conf.go:507: pre-init database size [66 kB]
+I 2021/11/30 15:05:21 conf.go:523: post-init database size [66 kB], tree stat [count=0, size=0 B]
+I 2021/11/30 15:05:21 working.go:113: kernel booted
+I 2021/11/30 15:06:15 process.go:36: received os signal [interrupt], exit kernel process now
+I 2021/11/30 15:06:15 conf.go:359: exited kernel
+I 2021/11/30 15:06:36 working.go:95: 
+      ___                                   ___           ___           ___
+     /  /\        ___           ___        /__/\         /  /\         /__/\
+    /  /:/_      /  /\         /__/|       \  \:\       /  /::\        \  \:\
+   /  /:/ /\    /  /:/        |  |:|        \  \:\     /  /:/\:\        \  \:\
+  /  /:/ /::\  /__/::\        |  |:|    ___  \  \:\   /  /:/~/::\   _____\__\:\
+ /__/:/ /:/\:\ \__\/\:\__   __|__|:|   /__/\  \__\:\ /__/:/ /:/\:\ /__/::::::::\
+ \  \:\/:/~/:/    \  \:\/\ /__/::::\   \  \:\ /  /:/ \  \:\/:/__\/ \  \:\~~\~~\/
+  \  \::/ /:/      \__\::/    ~\~~\:\   \  \:\  /:/   \  \::/       \  \:\  ~~~
+   \__\/ /:/       /__/:/       \  \:\   \  \:\/:/     \  \:\        \  \:\
+     /__/:/        \__\/         \__\/    \  \::/       \  \:\        \  \:\
+     \__\/                                 \__\/         \__\/         \__\/
+I 2021/11/30 15:06:36 runtime.go:57: kernel is booting:
+    * ver [1.5.4]
+    * arch [amd64]
+    * runtime mode [prod]
+    * working directory [/opt/siyuan]
+    * read only [false]
+    * container [docker]
+    * database [ver=20211124]
+    * workspace directory [/siyuan/, data 20 kB]
+    * rsync [version 3.2.3  protocol version 31]
+    * pandoc [/home/siyuan/.config/siyuan/pandoc/bin/pandoc]
+I 2021/11/30 15:06:36 conf.go:257: local serve path [http://127.0.0.1:6806]
+I 2021/11/30 15:06:36 serve.go:68: kernel is booting [http://0.0.0.0:6806]
+I 2021/11/30 15:06:36 conf.go:507: pre-init database size [66 kB]
+I 2021/11/30 15:06:36 conf.go:523: post-init database size [66 kB], tree stat [count=0, size=0 B]
+I 2021/11/30 15:06:36 working.go:113: kernel booted
+I 2021/11/30 15:26:26 index.go:416: rebuilt database for notebook [20211130152626-2qits0v] in [0.00s], tree stat [count=0, size=0 B]
+I 2021/11/30 15:26:32 index.go:416: rebuilt database for notebook [20211130152632-4es5gej] in [0.00s], tree stat [count=0, size=0 B]
+I 2021/11/30 15:26:44 index.go:416: rebuilt database for notebook [20211130152644-4jt2hfs] in [0.00s], tree stat [count=0, size=0 B]
+I 2021/12/01 11:00:00 index.go:416: rebuilt database for notebook [20211201105959-dmcaw65] in [0.00s], tree stat [count=0, size=0 B]

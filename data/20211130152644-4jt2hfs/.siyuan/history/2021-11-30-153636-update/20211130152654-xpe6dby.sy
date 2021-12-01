@@ -1,0 +1,33 @@
+{
+	"ID": "20211130152654-xpe6dby",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20211130152654-xpe6dby",
+		"title": "新文档",
+		"updated": "20211130152709"
+	},
+	"Children": [
+		{
+			"ID": "20211130152653-07jro30",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211130152653-07jro30",
+				"updated": "20211130152707"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "嘻嘻(;｀O´)o"
+				}
+			]
+		},
+		{
+			"ID": "20211130152709-e5hpdd1",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211130152709-e5hpdd1",
+				"updated": "20211130152709"
+			}
+		}
+	]
+}
